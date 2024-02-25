@@ -7,14 +7,12 @@ Este é um site desenvolvido utilizando HTML, CSS, JavaScript e API. O site foi 
 - Funcionalidade: Imagem inicial do projeto, onde toda vez que clicarmos no botao verde, a frese irá mudar.
 - Segue abaixo alguns exemplos:
 
-![image](https://github.com/lfguimara/gerador-API/assets/138631124/26baa285-4dee-48de-99da-d070fa6007cf)
+![image](https://github.com/lfguimara/gerador-API/assets/138631124/7a1739bd-d56a-400b-978a-90125b5d0987)
+
+![image](https://github.com/lfguimara/gerador-API/assets/138631124/6cc1dc6b-0bcb-4b7f-84a5-ee47631dc391)
 
 
-![image](https://github.com/lfguimara/gerador-API/assets/138631124/cc45bfc6-caf4-4a49-9783-ee6494b16a08)
-
-
-![image](https://github.com/lfguimara/gerador-API/assets/138631124/15934952-2db0-4619-a18e-0bc0dc8b56fd)
-
+![image](https://github.com/lfguimara/gerador-API/assets/138631124/e1eb98a1-e0df-45a7-804c-d42aa61712bf)
 
 ### Como utilizar:
 1. Faça o download ou clone este repositório.
