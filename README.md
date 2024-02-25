@@ -9,10 +9,14 @@ Este é um site desenvolvido utilizando HTML, CSS, JavaScript e API. O site foi 
 
 ![image](https://github.com/lfguimara/gerador-API/assets/138631124/7a1739bd-d56a-400b-978a-90125b5d0987)
 
-![image](https://github.com/lfguimara/gerador-API/assets/138631124/6cc1dc6b-0bcb-4b7f-84a5-ee47631dc391)
+--------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/lfguimara/gerador-API/assets/138631124/18180164-a76a-4d00-bba3-15c684b60a45)
 
-![image](https://github.com/lfguimara/gerador-API/assets/138631124/e1eb98a1-e0df-45a7-804c-d42aa61712bf)
+--------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/lfguimara/gerador-API/assets/138631124/4c60bdad-5d9d-4f46-a9d8-68448c421d59)
+
 
 ### Como utilizar:
 1. Faça o download ou clone este repositório.
